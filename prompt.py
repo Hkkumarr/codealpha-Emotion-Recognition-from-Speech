@@ -7,3 +7,4 @@ print("Encoded:", encoded)
 # Decoding (reverse again)
 decoded = encoded[::-1]
 print("Decoded:", decoded)
+njnvjsdn
